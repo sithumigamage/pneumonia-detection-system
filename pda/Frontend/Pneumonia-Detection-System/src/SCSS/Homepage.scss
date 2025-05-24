@@ -1,0 +1,38 @@
+.banner{
+    margin-top:20%;
+    text-align: center;
+    width:100%;
+    
+}
+
+.banner{
+    .main-text{
+        font-size: 3rem;
+        color: #ffffff
+        // margin-top: 20%;
+    }
+}
+.banner{
+    .Banner-text{
+        margin-top: -2%;
+        font-size: 1.5rem;
+    }
+}
+
+.banner{
+    .scan{
+        padding:10px;
+        background-color: transparent;
+        border: 2px solid #ffffff;
+        color:#ffffff;
+        border-radius: 50px;
+    }
+
+    .scan:hover{
+        background-color: #ffffff;
+        color: #000000;
+        scale: 1.1;
+        transition: 0.5s ease-in-out;
+        letter-spacing: 1px;
+    }
+}
