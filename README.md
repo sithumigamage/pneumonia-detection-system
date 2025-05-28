@@ -55,3 +55,16 @@ cd frontend
 npm install
 npm start
 
+##📊 Model Training Summary
+Input size: 150x150 pixels
+
+Optimizer: Adam
+
+Loss function: Binary Crossentropy
+
+Dataset split: 80% training, 10% validation, 10% testing
+
+Augmentation: Rotation, zoom, flips
+
+Epochs: 10+
+
