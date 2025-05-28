@@ -55,8 +55,9 @@ cd frontend
 npm install
 npm start
 
+## 📊 Model Training Summary
 
-##📊 Model Training Summary
+
 Input size: 150x150 pixels
 
 Optimizer: Adam
