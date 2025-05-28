@@ -46,6 +46,12 @@ This project presents an end-to-end intelligent web-based system that detects **
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/pneumonia-detector.git
-cd pneumonia-detector
+##Backend Setup (FastAPI)
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+## Frontend Setup (React.js)
+cd frontend
+npm install
+npm start
+
